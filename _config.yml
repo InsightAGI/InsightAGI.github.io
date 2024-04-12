@@ -35,14 +35,14 @@
 lang: en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title: Jade Cong
+title: InsightAGI
 
 # A short description (~150 chars) of the page used for the meta description tag. Can use markdown, but no more than one paragraph (enforced by `>`).
 description: >
-  This is the site where you know more about Jade Cong.
+  This is the site where you know more about InsightAGI.
 
 # A shorter description for the sidebar.
-tagline: Think and Act, Win with Respect~
+tagline: Insight AGI~
 
 # A list of keywords for your blog.
 keywords: [Researches, Publications, Projects, Blogs, Talks, Documentations, About, Robotics, AI, AIRobotics, RobotLearning]
